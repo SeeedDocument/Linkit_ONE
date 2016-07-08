@@ -96,7 +96,7 @@ There are 3 slide switches on LinkIt ONE which are used to configure the functio
   **MTK USB Modem Port** used for printing message, such as Serial.println()
   
 ![](https://raw.githubusercontent.com/SeeedDocument/Linkit-ONE/master/image/LinkIt_ONE_Wiki_Temp2.jpg)  
-**NOTE:** There is no official Windows 10 driver yet. Windows 10 users can manually select the Windows 7 driver files from \LinkIt_ONE_IDE\drivers\mtk from Device Manager. This is known to work on few PCs.
+**NOTE:** There is no official Windows 10 driver yet. Windows 10 users can manually select the Windows 7 driver files from **\LinkIt_ONE_IDE\drivers\mtk** from **Device Manager**. This is known to work on few PCs.
 
 ### Updating Firmware
 The firmware of LinkIt ONE board needs to be updated once in a while. Latest LinkIt ONE SDK comes with a version of firmware.
