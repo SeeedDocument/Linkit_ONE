@@ -65,8 +65,8 @@ There are 3 slide switches on LinkIt ONE which are used to configure the functio
 |1|	Install Arduino IDE 1.5.7 Beta (Windows or MAC OS X version)|	[ here](http://www.seeedstudio.com/wiki/LinkIt_ONE#Installing_Arduino_IDE)
 |2|		[ Register on MediaTek Labs](http://labs.mediatek.com/dpRegister/create).	| |
 |3|	Download [ Linkit Developer's Guide](http://labs.mediatek.com/fileMedia/download/5fed7907-b2ba-4000-bcb2-016a332a49fd) and read.	||
-|4|	Install LinkIt SDK for Arduino IDE (Windows or MAC OS X).|	[ here](http://www.seeedstudio.com/wiki/LinkIt_ONE#Installing_Mediatek_LinkIt_ONE_SDK)|
-|5|	Install 	[ LinkIt ONE](http://labs.mediatek.com/site/znch/developer_tools/mediatek_linkit/sdk_intro/index.gsp) drivers.|	[ here](http://www.seeedstudio.com/wiki/LinkIt_ONE#Installing_Drivers)|
+|4|	Install [ LinkIt SDK](http://labs.mediatek.com/site/znch/developer_tools/mediatek_linkit/sdk_intro/index.gsp) for Arduino IDE (Windows or MAC OS X).|	[ here](http://www.seeedstudio.com/wiki/LinkIt_ONE#Installing_Mediatek_LinkIt_ONE_SDK)|
+|5|	Install LinkIt ONE drivers.|	[ here](http://www.seeedstudio.com/wiki/LinkIt_ONE#Installing_Drivers)|
 |6|	Update the on-board firmware version.|	[ here](http://www.seeedstudio.com/wiki/LinkIt_ONE#Updating_Firmware)|
 |7|	Open Arduino IDE, Select LinkIt ONE board and start coding.|	[ here](http://www.seeedstudio.com/wiki/LinkIt_ONE#Uploading_Code)||
 |8|	Connect GSM, GPS and WiFi/BT antennae to LinkIt One board|	[ here](http://www.seeedstudio.com/wiki/LinkIt_ONE#Connecting_Antennae)|
