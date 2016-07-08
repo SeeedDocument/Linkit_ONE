@@ -228,7 +228,9 @@ More
 - [See Also: Sidekick Base Kit for LinkIt ONE](http://www.seeedstudio.com/wiki/Sidekick_Basic_Kit_for_LinkIt_ONE)
 
 
+## Help us to make it better
 
+<iframe style="height: 600px; width: 500px; margin: 10px 0 10px;" allowTransparency="true" src="https://www.surveymonkey.com/r/3SL2P97" frameborder="0"></iframe>
 
 
 
