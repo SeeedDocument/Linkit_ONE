@@ -81,11 +81,12 @@ There are 3 slide switches on LinkIt ONE which are used to configure the functio
 - Extract the downloaded files to Arduino IDE folder.
 - Double-Click the .EXE file and install.
 - With the installation of LinkIt ONE SDK, Arduino IDE works a LinkIt ONE IDE.
+
 ### Installing Drivers
 - Disable **Driver Signature Enforcement** if you are using Windows 8/8.1 OS. Read[instructions](http://www.seeedstudio.com/wiki/Download_Arduino_and_install_Arduino_driver#Installing_drivers_for_the_Seeeduino_with_window8)
 - Put the MS/UART slide switch to UART position and connect LinkIt ONE to PC.
 - Open Device Manager, the following COM ports will be displayed.
-- 
+
 ![](https://raw.githubusercontent.com/SeeedDocument/Linkit-ONE/master/image/LinkIt_ONE_Wiki_Temp1.jpg)
 - Install driver from ..\LinkIt_ONE_IDE\drivers\mtk folder.
 - After installing drivers, Device Manger should display the following two ports:
