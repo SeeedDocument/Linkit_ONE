@@ -1,5 +1,5 @@
 ### Linkit ONE
-***
+
 [PDF](http://www.seeedstudio.com/wiki/images/d/da/Seeed_LinkIt_ONE_User_Manual.pdf)
 
 The LinkIt ONE development platform is an open source, high performance board for prototyping Wearables and IoT devices. It is based on the world's leading SoC for Wearables, MediaTek Aster (**MT2502**) combined with high performance Wi-Fi (**MT5931**) and GPS (**MT3332**) chipsets to provide you with access to all the features of MediaTek LinkIt. It also provides similar pin-out features to Arduino boards, making it easy to connect various sensors, peripherals, and Arduino shields.
@@ -12,7 +12,7 @@ LinkIt One is an all-in-one prototyping board for IoT/wearables devices. Integra
 
 
 ## Features
-***
+
 - Includes ARM7 EJ-S™, GSM, GPRS, Wi-Fi, Bluetooth BR/EDR/BLE, GPS, Audio codec, and SD card connector on a single development board.
 - Pin-out similar to Arduino boards, including Digital I/O, Analog I/O, PWM, I2C, SPI, UART and power supply, compatible with Arduino.
 - Provides various interfaces for connecting to most sensors, peripherals, Groves, and other widgets.
@@ -20,7 +20,7 @@ LinkIt One is an all-in-one prototyping board for IoT/wearables devices. Integra
 
 
 ## specifications
-***
+
 |Parameter   |Value          |
 |:------|:-----------------|
 |Chipset|	MT2502A (Aster, ARM7 EJ-S (TM) )|
@@ -41,7 +41,7 @@ LinkIt One is an all-in-one prototyping board for IoT/wearables devices. Integra
 |Bluetooth|	BR/EDR/BLE(Dual Mode)|
 
 ### Hardware Overview
-***
+
 ![](https://raw.githubusercontent.com/SeeedDocument/Linkit-ONE/master/image/1000px-LinkItONE_RESOURCE.png)
 
 ### Configuration Switches
@@ -58,7 +58,7 @@ There are 3 slide switches on LinkIt ONE which are used to configure the functio
 **Note** that DO take care as you handle USB micro type-B socket, or you might break the socket off.
 
 ## Getting started
-***
+
 ### Procedure Overview
 |No.|	Step	|Read more|
 |:------|:-----------------|:-----------------|
@@ -142,7 +142,7 @@ LinkIt ONE SDK comes with many examples / sample code to use peripherals like GS
 
 
 ## Compatible Groves and Shields for LinkIt ONE
-***
+
 - We manufacture hundreds of Groves and Shields, including sensors, actuators, displays and other modules.
 - You can implement your ideas with those Groves and Shields easily.
 - But, LinkIt ONE does not support all of them.
@@ -151,7 +151,7 @@ LinkIt ONE SDK comes with many examples / sample code to use peripherals like GS
 [![](https://raw.githubusercontent.com/SeeedDocument/Linkit-ONE/master/image/400px-Compatible_Groves_and_Shields_for_LinkIt_ONE.png)](https://github.com/SeeedDocument/Linkit-ONE/blob/master/resource/LinkIt_ONE_Comparability_Test.xlsx)
 
 ## Tutorial of Sidekick Basic Kit for LinkIt ONE
-***
+
 The Sidekick Basic Kit for LinkIt ONE is designed to be used with your LinkIt ONE board. This kit will help you quickly get along well with the platform of LinkIt. It includes many of the most popular accessories for DIY projects : like Breadboard, Jumper wires, Color LEDs, Resistors, Buzzer, etc. All these come in a handy box, which is easy to transport and mimimises clutter. The kit includes a complete guide that will familiarize you with a wide range of electronic components while you create small, simple, and easy-to-assemble circuits. There are 10 different courses outlined that will offer a best way for beginner to get familiar with LinkIt ONE.
 
 **SKU:**[110060038](https://www.seeedstudio.com/item_detail.html?p_id=2027)
@@ -170,7 +170,7 @@ The Sidekick Basic Kit for LinkIt ONE is designed to be used with your LinkIt ON
 
 
 ## Related Projects
-***
+
 If you want to make some awesome projects by LinkIt ONE, here's some projects for reference.
 
 ### Make an Instructables Indicator
