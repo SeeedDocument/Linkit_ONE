@@ -32,7 +32,7 @@ LinkIt One is an all-in-one prototyping board for IoT/wearables devices. Integra
 |Analog Pins|	3|
 |Digital Output	|3.3V|
 |Analog Input|	5V|
-|UART|	Software based(Serial) ,also known as USB Modem Port and Hardware Serial(Serial1, D0&D1)|
+|UART|	Software based(**Serial**) ,also known as USB Modem Port and Hardware Serial(**Serial1**, D0&D1)|
 |SD Card|	Up to 32GB(Class 10)|
 |Positioning|	GPS(MT3332)|
 |GSM|	850/900/1800/1900 MHz|
