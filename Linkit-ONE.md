@@ -40,7 +40,7 @@ LinkIt One is an all-in-one prototyping board for IoT/wearables devices. Integra
 |Wi-Fi|	802.11 b/g/n|
 |Bluetooth|	BR/EDR/BLE(Dual Mode)|
 
-### Hardware Overview
+## Hardware Overview
 
 ![](https://raw.githubusercontent.com/SeeedDocument/Linkit-ONE/master/image/1000px-LinkItONE_RESOURCE.png)
 
